@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    font-family: "Comic Neue", cursive;
+    
+}
+
+#text{
+    text-shadow: 1px 0 #D43069, -1px 0 #D43069, 0 1px #D43069, 0 -1px #D43069;
+    color: #D43069;
+}
+
+header{
+    text-align: center;
+    max-width: 70%;
+    margin: 0 auto;
+    
+}
